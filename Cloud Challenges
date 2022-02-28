@@ -1,1 +1,49 @@
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <h1>Siphathisile Dube</h1>
+  <h2>(---)--- ----| Dallas, TX | s-----.-@gmail.com</h2>
+  <hr />
+  <br>
+  <u> <p class="head">Summary</p></u>
+  
+    <p> AWS Certified Cloud Practitioner eager to learn and add value through using compliance and support
+cloud computing.Interested in attaining a role that will allow me the opportunity to excel in the cloud
+environment through development, integration, testing, and deployment </p>
+    
+ <u> <p class="head">Technical Skills</p></u>
+  <ul>
+    <li>AWS, HTML,Python,Linux</li>
+  </ul>
+  <u><p class="head">Education</p></u>
+  <ul>
+    <a href="http://www.wiltonhighschool.org/pages/Wilton_High_School">
+     
+      <li>University of Texas At Arlington| 2019</li>
+    </a>
+  </ul>
+ <u> <p class="head">Experience</p></u>
+  <ul>
+    <li>Generation USA | 2021-2022</li>  </ul>
 
+    <p>Junior Cloud Practitioner Bootcamp- Remote
+</p>
+  <p> 10-week Jr.Cloud program,earned 300+ hours learning to deploy, configure and manage cloud infrastructure using different tools, and writing basic shell scripts. Basic knowledge of Linux, Python, AWS, DevOps to support IT operation related cloud-based environments.</p>
+
+
+
+  <u> <p class="head">Certifications</p>
+    <ul> </u>
+    <li>AWS Certified Cloud Practitioner | 2022
+</li>
+    <li> LPI Linux Essentials| 2022
+</li>
+    <li> Python for Data Science, AI & Development
+ Essentials | 2021
+</li>
+  </ul>
+</div>
+<div class="right"></div>
+<div id="footer">
+  <h2 id="name">Spati</h2></div>
